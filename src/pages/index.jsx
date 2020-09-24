@@ -10,7 +10,7 @@ export default function index() {
         <meta name="description" content={SEO.description} />
       </Head>
       <main>
-        <h1>Hello next js</h1>
+        <h1 className="title">Hello next js</h1>
       </main>
     </Fragment>
   );
